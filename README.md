@@ -94,9 +94,10 @@ I am Akeanant Poomdeesittinon, You can call me Gun, I am a **Computer Science st
     <img src="https://github-readme-stats.vercel.app/api?username=tony219y&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Tony's GitHub Stats" />
   </a>
 </div>
+<br/>
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmVlNXd0bGc4MTY3cWt3dG1iOWoyM3NkYXJxcDQ3cm83ZnQxcW95OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S9P6EzVR5a5jR2ARgX/giphy.gif" 
+     width="100%" 
+     style="height: 400px; object-fit: cover; display: block;">
 
-<br clear="both">
-<img src="https://raw.githubusercontent.com/tony219y/tony219y/output/snake.svg" alt="Snake animation" />
-###
 
 
