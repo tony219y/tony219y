@@ -25,13 +25,14 @@ I am Akeanant Poomdeesittinon, You can call me Gun, I am a **Computer Science st
 <img src="https://skillicons.dev/icons?i=nodejs,java,python,fastapi">
 
 ### 🗄️ Database & Cloud Services
-<img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,supabase">
+<img src="https://skillicons.dev/icons?i=postgresql,mongodb,supabase">
 
 ### 🔧 DevOps & OS
 <img src="https://skillicons.dev/icons?i=debian,ubuntu">
 
+
 ### 🛠️ Tools & Utilities
-<img src="https://skillicons.dev/icons?i=figma,yarn,npm,postman">
+<img src="https://skillicons.dev/icons?i=figma,yarn,npm,postman,prisma">
 
 ## 📈 GitHub Stats
 
