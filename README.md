@@ -6,7 +6,7 @@ I am Akeanant Poomdeesittinon, You can call me Gun, I am a **Computer Science st
 <p align="center">
    <a href="https://www.linkedin.com/in/akeanant-poomdeesittinon-58376a19a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
    <a href="https://instagram.com/_gunnotgun" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-   <a href="https://www.tony219y.com/" target="_blank"><img src="https://img.shields.io/badge/Website-1962B1?style=for-the-badge&logo=rocket&logoColor=white"></a> 
+   <a href="https://tony219y.github.io/tony219y-portfolio/" target="_blank"><img src="https://img.shields.io/badge/Website-1962B1?style=for-the-badge&logo=rocket&logoColor=white"></a> 
    </a> 
    <a href="mailto:aekanan.dev@yahoo.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a> 
    </a> 
