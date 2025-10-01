@@ -34,7 +34,7 @@ I am Akeanant Poomdeesittinon, You can call me Gun, I am a **Computer Science st
 
 <div align="center">
   <a href="https://github.com/tony219y">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tony219y&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tony219y&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=6" />
   </a>
   <a href="https://github.com/tony219y">
     <img src="https://github-readme-stats.vercel.app/api?username=tony219y&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Tony's GitHub Stats" />
