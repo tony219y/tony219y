@@ -19,10 +19,10 @@ I am Akeanant Poomdeesittinon, You can call me Gun, I am a **Computer Science st
 ## ⚡ Technologies
 
 ### 🎨 Frontend
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,svelte,tailwind&theme=light">
+<img src="https://skillicons.dev/icons?i=react,next,svelte,tailwind&theme=light">
 
 ### 🖥️ Backend & API
-<img src="https://skillicons.dev/icons?i=nodejs,java,python,fastapi,go">
+<img src="https://skillicons.dev/icons?i=js,ts,nodejs,java,python,fastapi,go">
 
 ### 🗄️ Database & Cloud Services
 <img src="https://skillicons.dev/icons?i=postgresql,mongodb,supabase">
