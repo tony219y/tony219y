@@ -1,7 +1,8 @@
 ## Hello folks! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
-I am Akeanant Poomdeesittinon, You can call me Gun, I am a **Computer Science student at [King Mongkut's Institute of Technology Ladkrabang (KMITL)](https://www.kmitl.ac.th/)**.  Passionate about **Fullstack Development** and always eager to learn new things.
- Currently, I'm exploring different tech stacks, building cool projects, and improving my skills every day. 🚀
+### Akeanant (Gun) Poomdeesittinon
+
+CS Student @ **[King Mongkut's Institute of Technology Ladkrabang (KMITL)](https://www.kmitl.ac.th/)**.    | Full-Stack Developer. Building efficient web solutions in collaborative Agile/Scrum environments. Passionate about clean code and continuous learning.🚀
 
 <p align="center">
    <a href="https://www.linkedin.com/in/akeanant-poomdeesittinon-58376a19a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
