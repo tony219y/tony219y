@@ -2,8 +2,7 @@
 
 ### Akeanant (Gun) Poomdeesittinon
 
-CS Student @ **[King Mongkut's Institute of Technology Ladkrabang (KMITL)](https://www.kmitl.ac.th/)**.    | Full-Stack Developer. Building efficient web solutions in collaborative Agile/Scrum environments. Passionate about clean code and continuous learning.🚀
-
+CS Student @ **[King Mongkut's Institute of Technology Ladkrabang (KMITL)](https://www.kmitl.ac.th/)**.    | Full-Stack Developer.
 <p align="center">
    <a href="https://www.linkedin.com/in/akeanant-poomdeesittinon-58376a19a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
    <a href="https://instagram.com/_gunnotgun" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
