@@ -10,10 +10,10 @@ I am a third-year Computer Science student passionate about building scalable, u
 ## Technologies
 
 **Frontend & Design**<br>
-<img src="https://skillicons.dev/icons?i=react,next,svelte,tailwind,figma&theme=light" height="36" />
+<img src="https://skillicons.dev/icons?i=react,next,svelte,tailwind,flutter,figma&theme=dark" height="36" />
 
 **Backend & Database**<br>
-<img src="https://skillicons.dev/icons?i=ts,nodejs,python,fastapi,go,java,postgresql,mongodb&theme=light" height="36" />
+<img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,python,fastapi,go,java,postgresql,supabase,mongodb,prisma&theme=dark" height="36" />
 
 **Infrastructure & Tools**<br>
-<img src="https://skillicons.dev/icons?i=git,docker,postman&theme=light" height="36" />
+<img src="https://skillicons.dev/icons?i=git,gitlab,docker,postman&theme=light" height="36" />
